@@ -13,10 +13,14 @@
 - 💬 Ask me about **Python**, **SQL**, **NLP**, **Machine Learning**, or **Computer Vision**.
 - ⚡ **Fun fact**: I love traveling to new places while listening to music—it’s the perfect combination of exploration and relaxation!
 
-  <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212751889-4c9f4f63-8c75-495a-b291-7ebd3d887b44.gif" alt="developer-gif" width="300"/>
-</p>
+  </td>
+<td align="center">
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="Developer gif" />
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🧰 Tech Stack & Tools
