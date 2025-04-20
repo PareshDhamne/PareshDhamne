@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🎓 I'm a Computer Engineering graduate with a strong passion for technology and innovation.
 - 💡 I love working on **Machine Learning**, **Web Development**, and **Software Engineering** projects.
 - 🔭 I’m currently exploring more about **Data Science** and building scalable applications using **Java**.
@@ -12,16 +12,6 @@
 - 🛠️ I enjoy creating, learning, and sharing—one project at a time.
 - 💬 Ask me about **Python**, **SQL**, **NLP**, **Machine Learning**, or **Computer Vision**.
 - ⚡ **Fun fact**: I love traveling to new places while listening to music—it’s the perfect combination of exploration and relaxation!
-
-  </td>
-<td align="center">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="Developer gif" />
-
-</td>
-</tr>
-</table>
----
 
 ### 🧰 Tech Stack & Tools
 
