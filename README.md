@@ -17,10 +17,6 @@
 
 ### 🧰 Tech Stack & Tools
 
-
-<p align="left">
-  ### 🧰 Tech Stack & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,java,mysql,postgres,html,css,js,nodejs,express,react,git,github,linux" />
   <span>
