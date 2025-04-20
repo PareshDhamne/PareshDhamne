@@ -17,8 +17,6 @@
 
 ### 🧰 Tech Stack & Tools
 
-<p align="left">
-  <img src="### 🧰 Tech Stack & Tools
 
 <p align="left">
   ### 🧰 Tech Stack & Tools
