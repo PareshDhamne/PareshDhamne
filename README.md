@@ -23,12 +23,27 @@
 <p align="left">
   ### 🧰 Tech Stack & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,java,mysql,postgres,html,css,js,nodejs,express,react,git,github,linux,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" style="vertical-align: middle; margin-left: 8px;" />
-</p>
-
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/></td>
+  </tr>
+</table>
 
 
 ### 🌐 Let's Connect
