@@ -24,7 +24,7 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/paresh-dhamne-45131a233" target="_blank">
+  <a href="https://www.linkedin.com/in/paresh-dhamne-45131a233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:pareshdhamane19@gmail.com">
