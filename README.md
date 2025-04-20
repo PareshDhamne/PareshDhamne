@@ -21,7 +21,8 @@
   <img src="### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,html,css,js,nodejs,express,react,tensorflow,git,github,linux,jupyterNotebook" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,html,css,js,nodejs,express,react,tensorflow,git,github,linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" />
 </p>
 " />
 </p>
