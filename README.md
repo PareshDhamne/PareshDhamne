@@ -24,8 +24,8 @@
   ### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,java,mysql,postgres,html,css,js,nodejs,express,react,git,github,linux,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" />
+ <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,java,mysql,postgres,html,css,js,nodejs,express,react,git,github,linux,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" style="margin-left: 5px;" />
 </p>
 
 </p>
