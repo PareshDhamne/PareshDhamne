@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Paresh Sunil Dhamne!</h1>
-<h3 align="center">⭐ Passionate Data Scientist and Software Development Enthusiast ⭐ </h3>
+<h1>Hi there 👋, I'm Paresh Sunil Dhamne!</h1>
+<h3>⭐ Passionate Data Scientist and Software Development Enthusiast ⭐ </h3>
 
 ---
 
