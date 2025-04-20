@@ -21,7 +21,7 @@
   <img src="### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,html,css,js,nodejs,express,react,,tensorflow,git,github,linux,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,html,css,js,nodejs,express,react,tensorflow,git,github,linux,jupyterNotebook" />
 </p>
 " />
 </p>
